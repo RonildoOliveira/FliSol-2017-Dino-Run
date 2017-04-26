@@ -13,3 +13,5 @@ Projeto realizado no Festival Latino-americano de Instalação de Software Livre
 - Gradle
 - LibGDX
 - TexturePacker
+
+*Special Thanks to William Mora*
